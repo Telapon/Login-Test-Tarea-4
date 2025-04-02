@@ -1,0 +1,3 @@
+Este proyecto implementa un sistema de autenticación de usuarios en Java utilizando el paradigma de POO. Se emplean los principios de abstracción, encapsulamiento, herencia y polimorfismo, así como el patrón de diseño Singleton para la gestión de usuarios. La interfaz gráfica está construida con Swing, permitiendo registrarse, iniciar sesión, actualizar sus datos y eliminar cuentas. Al iniciar sesión correctamente, se muestra un listado de los usuarios registrados. El programa también valida que todos los campos sean obligatorios, que las contraseñas coincidan y que la información ingresada sea correcta antes de permitir el acceso.
+
+Esta es la entrega de la tarea número 4 de programación 1.
